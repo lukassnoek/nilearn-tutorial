@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+source
+release
+nilearn_data
+gradebook.db
+nbgrader_config.py
+
