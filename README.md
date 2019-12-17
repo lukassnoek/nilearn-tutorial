@@ -1,5 +1,5 @@
 # nilearn-tutorial
-Beginner Nilearn tutorial
+Beginner Nilearn tutorial.
 
 ## Getting started
 You can either run this tutorial on your own computer locally or online through binder.
