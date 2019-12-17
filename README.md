@@ -18,7 +18,7 @@ jupyter notebook nilearn.ipynb
 ```
 
 ### Run with binder
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukassnoek/nilearn-tutorial/master)
 
 ## Issues, questions, additions?
 If you encounter issues, have questions, or want to propose an addition/change/fix to this tutorial, please submit an issue (or better yet: a pull request) here on Github!
